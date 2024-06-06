@@ -1,1 +1,38 @@
 node_modules
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+settings.py
+
+__init__.py
+static/
+theme/
+# Environments
+myera/
+venv/
+env/
+ENV/
+
+# Databases
+*.sqlite3
+
+# Migrations
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+migrations/
+
+# Media
+/media
+
+# Static
+/static
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
