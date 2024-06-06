@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(10, 12, 56);
+    color: #FFFFFF;
+}
+
+h1{
+    text-align: center;
+    font-size: 2;
+}
+.cont{
+    padding-right: 10px;
+    flex-direction: column;
+    text-align: center;
+    font-size: 1;
+    color: #FFFFFF;
+    justify-content: space-between;
+    align-items: center;
+}
